@@ -1,6 +1,6 @@
 ## Michi Yamamoto
 
-Building AI systems that model how ideas are interpreted, evaluated, and acted on.
+I build AI systems that model how ideas are interpreted, evaluated, and acted on.
 
 ### Focus
 - Audience perception and message alignment
@@ -21,7 +21,7 @@ Building AI systems that model how ideas are interpreted, evaluated, and acted o
   Detect architectural drift through multi-perspective analysis
 
 ### Approach
-I model human judgment by focusing on:
+I’m interested in modeling human judgment by focusing on:
 - How different people interpret the same input  
 - Where alignment breaks down  
 - How decisions emerge from competing perspectives  
