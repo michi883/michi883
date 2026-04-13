@@ -1,7 +1,3 @@
-## Michi Yamamoto
-
-I build AI systems that model how ideas are interpreted, evaluated, and acted on.
-
 My work has folded into a broader research program on **audience-dependent meaning** — how the same message builds trust with one audience and breaks it with another, and how that variation has structure you can measure and design for.
 
 The work lives in three places:
