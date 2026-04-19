@@ -1,40 +1,75 @@
-My work has folded into a broader research program on **audience-dependent meaning** — how the same message builds trust with one audience and breaks it with another, and how that variation has structure you can measure and design for.
+My work is about a simple idea:
+
+**The same message lands differently depending on who’s hearing it.**
+
+Sometimes it builds trust.
+Sometimes it turns people off.
+That difference isn’t random. It has structure.
+
+I build tools and run experiments to understand and design for that.
 
 The work lives in three places:
 
-- 🧬 [**Humor Genome**](https://humorgenome.org) — the research program
-- 🎤 [**Midtown Show**](https://midtownshow.com) — the live lab
-- 🔊 [**sound.fan**](https://sound.fan) — the shipped systems
+* 🧬 [**Humor Genome**](https://humorgenome.org) — research
+* 🎤 [**Midtown Show**](https://midtownshow.com) — live experiments
+* 🔊 [**sound.fan**](https://sound.fan) — shipped systems
 
 ---
 
 <details>
-<summary><strong>The thesis</strong></summary>
+<summary><strong>The idea</strong></summary>
 
-- Meaning is not a property of a message — it is a function of the relationship between a message and its audience
-- The same input produces structurally different interpretations across audiences — predictable divergence, not random noise
-- Comedy is the proof surface: laughter is the fastest, most measurable signal of interpretation we have
-- A laugh is binary and involuntary; silence is equally legible — live rooms are the highest-bandwidth environment for studying how meaning shifts across listeners
+* Meaning doesn’t live in the message itself
+
+* It shows up in the interaction between message and audience
+
+* The same input can lead to very different interpretations
+
+* Those differences are patterned, not random
+
+* Comedy makes this visible
+
+* People either laugh or they don’t
+
+* That makes live rooms a clean testing ground
+
+* You can see meaning change in real time
 
 </details>
 
 <details>
-<summary><strong>Research themes</strong></summary>
+<summary><strong>What I study</strong></summary>
 
-- **Interpretation Divergence** — why the same message lands differently across audiences; measuring alignment, disagreement, and the shape of audience splits
-- **Persona Modeling** — defining and simulating distinct audience types and what they optimize for when interpreting the same input
-- **How It Lands** — real-time observation of audience reactions as content unfolds
-- **Meaning Structure** — the internal architecture that makes some messages flexible across audiences and others brittle
-- **Decision Surfaces** — how interpretation drives downstream trust, action, hesitation, or rejection
+* **Why things land differently**
+   — What causes agreement, disagreement, or split reactions
+
+* **Audience types**
+   — Different ways people interpret the same thing
+
+* **Real-time reactions**
+   — Watching how responses change moment by moment
+
+* **What makes a message flexible or fragile**
+   — Why some ideas travel well and others break
+
+* **What happens next**
+   — Trust, action, hesitation, or rejection
 
 </details>
 
 <details>
 <summary><strong>How I work</strong></summary>
 
-- Build instruments that make interpretation visible in real time
-- Treat audiences as first-class variables, not target segments
-- Test in live rooms before shipping — comedy as the fastest feedback loop
-- Move from one-off hackathon builds to systems that compose
+* Build tools that show how people interpret things
+
+* Treat the audience as part of the system
+  Not just something to “target”
+
+* Test ideas in live rooms
+  Then turn what works into products
+
+* Start with small demos
+  Then connect them into systems
 
 </details>
+
