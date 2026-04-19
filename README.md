@@ -19,57 +19,40 @@ The work lives in three places:
 <details>
 <summary><strong>The idea</strong></summary>
 
-* Meaning doesn’t live in the message itself
+* Meaning is not in the message - It emerges from who’s hearing it
 
-* It shows up in the interaction between message and audience
+* The same input produces different interpretations - And those differences are predictable
 
-* The same input can lead to very different interpretations
+* Most tools assume one “correct” reading - Real audiences don’t behave that way
 
-* Those differences are patterned, not random
-
-* Comedy makes this visible
-
-* People either laugh or they don’t
-
-* That makes live rooms a clean testing ground
-
-* You can see meaning change in real time
+* Comedy exposes this clearly - A joke either lands, misses, or splits the room
 
 </details>
+
 
 <details>
 <summary><strong>What I study</strong></summary>
 
-* **Why things land differently**
-   — What causes agreement, disagreement, or split reactions
+* **Interpretation gaps** - Where and why audiences disagree
 
-* **Audience types**
-   — Different ways people interpret the same thing
+* **Audience models** - Different lenses people use to make sense of the same input
 
-* **Real-time reactions**
-   — Watching how responses change moment by moment
+* **Live reaction signals** - What people actually do, not what they say after
 
-* **What makes a message flexible or fragile**
-   — Why some ideas travel well and others break
-
-* **What happens next**
-   — Trust, action, hesitation, or rejection
+* **Message robustness** - Why some ideas hold across audiences and others fall apart
 
 </details>
+
 
 <details>
 <summary><strong>How I work</strong></summary>
 
-* Build tools that show how people interpret things
+* Build tools that make audience interpretation visible
 
-* Treat the audience as part of the system
-  Not just something to “target”
+* Simulate different audiences, not just average behavior
 
-* Test ideas in live rooms
-  Then turn what works into products
+* Test in live environments before abstracting
 
-* Start with small demos
-  Then connect them into systems
+* Turn small experiments into reusable systems
 
 </details>
-
