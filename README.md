@@ -1,14 +1,4 @@
-My work is about a simple idea:
-
-**The same message lands differently depending on who’s hearing it.**
-
-Sometimes it builds trust.
-Sometimes it turns people off.
-That difference isn’t random. It has structure.
-
-I build tools and run experiments to understand and design for that.
-
-The work lives in three places:
+My work lives in three places:
 
 * 🧬 [**Humor Genome**](https://humorgenome.org) — research
 * 🎤 [**Midtown Show**](https://midtownshow.com) — live experiments
