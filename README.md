@@ -1,1 +1,1 @@
-Building systems that make uncertainty visible.
+Building systems that reveal how people interpret the same information differently.
