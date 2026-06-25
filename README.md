@@ -1,1 +1,1 @@
-Exploring verification, coordination, and human-AI collaboration.
+Exploring AI systems for high-uncertainty environments.
